@@ -31,7 +31,7 @@ Actuellement étudiante à l’IUT d’Orsay je recherche une alternance (2J/3J 
 
 **🔧 Compétences**
 
-- Programmation : Python, Java, C++
+- Programmation : Java, C++
 - Base de données : SQL
 - Web : HTML, CSS
 
