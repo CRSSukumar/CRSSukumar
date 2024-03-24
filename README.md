@@ -9,7 +9,7 @@
 
 **📚 À propos de moi**
 
-Actuellement étudiante à l’IUT d’Orsay je recherche une alternance (2J/3J ) en informatique, de préférence dans le développement ou le support .Passionnée par l'informatique, les mathématiques et les nouvelles technologies, je suis sérieuse, dynamique et créative.  J'ai acquis de l'expérience en programmation grâce à plusieurs projets intéressants que j'ai réalisés lors de mon cursus.
+Actuellement étudiante à l’IUT d’Orsay je recherche une alternance (2J/3J ) en informatique, de préférence dans le développement ou le support. Ayant travaillé efficacement en équipe sur plusieurs projets informatiques et ayant acquis une expérience pratique grâce à divers emplois saisonniers, je suis confiante dans ma capacité à apporter une valeur ajoutée à toute équipe. J’ai une soif constante d’apprentissage, ce qui me pousse à élargir constamment mes compétences techniques. J'ai notamment pu acquérir de l'expérience en programmation grâce à plusieurs projets intéressants que j'ai réalisés lors de mon cursus.
 
 **💼 Expérience**
 
