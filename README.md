@@ -1,4 +1,4 @@
-Bien sûr, voici une version mise à jour de votre README sur GitHub basé sur les informations de votre CV :
+
 
 ```markdown
 # Bonjour 👋, je suis CHANDRA RS SUKUMAR
